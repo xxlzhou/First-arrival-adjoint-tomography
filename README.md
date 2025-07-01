@@ -19,5 +19,5 @@ Geophysical Journal International, In Press.
   year      = {2025},
   title     = {Near-surface site characterization at Bishan-AMK Park, Singapore, using first-arrival adjoint tomography via the joint inversion of absolute and differential traveltimes},
   journal   = {Geophysical Journal International},
-  note      = {In Press}
+  doi      = {https://doi.org/10.1093/gji/ggaf237}
 }
